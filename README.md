@@ -1,7 +1,7 @@
 dfsinference
 ============
 
-Inference of bond forces and diffusivities from dynamic force spectoscopy experiment using the method found in the manuscript [arXiv:1502.06415] (http://arxiv.org/abs/1502.06415)
+Inference of bond forces and diffusivities from dynamic force spectoscopy bond pulling experiments using the method found in the manuscript [arXiv:1502.06415] (http://arxiv.org/abs/1502.06415)
 
 This method used a Bayesian interpretation of Tikhonov regularization in order to provide the estimated
 bond force, diffusivity, and error estimates of these functions.
