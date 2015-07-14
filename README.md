@@ -11,4 +11,4 @@ Simulated [data] (https://www.dropbox.com/sh/xjrjcvhkx64xyxg/AACcTJ5jTLsGXkWtobh
 The following are the dependencies of this script:
 * numpy
 * sympy
-* hyperopt for finding the regularization parameters
+* [hyperopt] (https://github.com/hyperopt/hyperopt) for finding the regularization parameters
