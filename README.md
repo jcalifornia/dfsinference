@@ -8,7 +8,7 @@ bond force, diffusivity, and error estimates of these functions. The overall app
 
 We assume that the user is not interested in the repulsive behavior for short bond separations. For this reason, we just assume the Lennard-Jones potential holds at short distances - the scaling for what is meant by short distance must be inputted by the user. At the present moment this involves some slight modification of the script - we hope to implement more user-friendly definitions of length scales and units soon. If you find yourself in need of this feature, please shoot me an email. We also appreciate any contributions to the source code base.
 
-Simulated [data] (https://www.dropbox.com/sh/xjrjcvhkx64xyxg/AACcTJ5jTLsGXkWtobhsq1Oia?dl=0) is available. Check out the included .ipynb file for usage. 
+Data is expected in either text format or as a .mat file containing a matrix object named 'A' consisting of time in the first column and bond coordinate position in the second column. Check out the included .ipynb file for usage. 
 
 The following are the dependencies of this script:
 * numpy
